@@ -3,12 +3,24 @@ div{
     height: 50%;
     margin-left: 25%;
     margin-right: 25%;
-    margin-top:15%;
 }
 
 p{
     color: #ffff;
     text-align: center;
+}
+
+ #jooj a{
+    color: #ffff;
+    align-self: center;
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+
+}
+#jooj a:hover{
+    background-color: rgb(16, 6, 59);
+
 }
 
 body{
